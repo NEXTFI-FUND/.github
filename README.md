@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Building the Operating System for Hybrid Venture Capital in Vietnam.</strong>
   <br />
-  We are the technology engine behind the <a href="URL_WEBSITE_MARKETING_CUA_BAN">NEXFI Fund</a>, pioneering a new era of transparent, liquid, and collaborative private market investing.
+  We are the technology engine behind the <a href="https://nextfi.vn">NEXFI Fund</a>, pioneering a new era of transparent, liquid, and collaborative private market investing.
 </p>
 
 ---
@@ -38,9 +38,9 @@ These are the values that guide every decision we make and every line of code we
 
 We are a passionate team of builders, innovators, and investors dedicated to reshaping the venture capital landscape. We are always looking for talented individuals who share our vision and principles.
 
-*   🌐 Visit our website: **[your-website.com](https://your-website.com)**
+*   🌐 Visit our website: **[nextfi.vn](https://nextfi.vn)**
 *   💼 Check out our open positions: **[Link to Careers Page or AngelList/LinkedIn]**
-*   ✉️ Get in touch: **contact@your-domain.com**
+*   ✉️ Get in touch: **contact@nextfi.vn**
 
 <p align="center">
   Let's build the future of venture capital, together.
